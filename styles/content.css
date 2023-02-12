@@ -1,0 +1,24 @@
+.titleFormation{
+    margin-bottom: 2rem;
+    text-align: center;
+    background-color: #f6f4fd;
+    padding: 40px;
+}
+
+.partie{
+    width: 100%;
+}
+
+.partie li{
+    list-style: none;
+    margin: 2px;
+    cursor:pointer;
+}
+.partieEntete{
+    display: inline-flex;
+}
+
+.flagSummary{
+    margin-top: 5px;
+    margin-right: 10px;
+}

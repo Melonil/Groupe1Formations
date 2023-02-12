@@ -1,0 +1,24 @@
+.thumbnailFormation{
+	width: 300px;
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.containerFormation2{
+	width:100%;
+}
+
+.containerFormation:hover {
+    box-shadow: rgb(0 0 0 / 5%) 0px 3px 16px 0px, rgb(0 0 0 / 5%) 0px 9px 12px 0px!important;
+	cursor:pointer;
+	text-decoration: none;
+	color: initial;
+}
+
+.containerFormation {
+	text-decoration: none;    
+	color: initial;
+	
+}
+
